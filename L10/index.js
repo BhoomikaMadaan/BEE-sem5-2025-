@@ -5,7 +5,7 @@ const fs=require("fs")
 let  users=[
 {
     id:1,
-    name:"Bhoomika",
+    name:"kkubk",
     email:"abcd@gmail.com",
     address:"Patiala",
     password:"2345"
@@ -19,7 +19,7 @@ let  users=[
 },
 {
     id:1,
-    name:"Muskaan",
+    name:"ziw",
     email:"idf@gmail.com",
     address:"Patiala",
     password:"2345"
